@@ -2,6 +2,8 @@
 
 This project provides a web-based application for classifying brain tumors from MRI scans using deep learning models. The application uses pre-trained models - Xception and a custom CNN model for the classification task. It also generates saliency maps to highlight the regions of the MRI scan that the model focuses on during prediction.
 
+[Visit my app!](https://sharvesh-brain-tumor-classification.streamlit.app/)
+
 ## Features
 
 - **Brain Tumor Classification**: Classifies MRI scans into four categories:
