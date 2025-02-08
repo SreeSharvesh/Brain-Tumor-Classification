@@ -19,7 +19,7 @@ This project provides a web-based application for classifying brain tumors from 
 ## Technologies Used
 
 - **Deep Learning Framework**: TensorFlow/Keras
-- **Models**: Xception, InceptionV3, Custom CNN
+- **Models**: Xception, Custom CNN
 - **Web Framework**: Streamlit
 - **Saliency Maps**: Grad-CAM-based saliency visualization
 - **PDF Generation**: FPDF
