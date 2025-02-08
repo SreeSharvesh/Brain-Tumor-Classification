@@ -28,7 +28,6 @@ This project provides a web-based application for classifying brain tumors from 
 
 ## Models
 - **Xception**: A deep convolutional neural network trained on the ImageNet dataset, fine-tuned for brain tumor classification.
-- **InceptionV3**: A state-of-the-art deep learning model that improves accuracy and performance on image classification tasks.
 - **Custom CNN**: A custom-designed convolutional neural network for brain tumor classification.
 
 
@@ -36,7 +35,6 @@ This project provides a web-based application for classifying brain tumors from 
 1. **Upload an MRI Scan**: Select an MRI image of the brain from your local filesystem. Supported formats: JPG, PNG, JPEG.
 2. **Choose a Model**: Select the deep learning model you wish to use for classification:
 - Xception
-- InceptionV3
 - Custom CNN
 3. **View Results**: The app will display the predicted class (glioma, meningioma, pituitary, or no tumor) along with a confidence score.
 4. **Saliency Map**: A saliency map highlighting the regions of the MRI scan that contributed most to the classification decision is generated.
