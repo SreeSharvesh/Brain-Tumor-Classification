@@ -1,6 +1,6 @@
 # Brain Tumor Classification Application
 
-This project provides a web-based application for classifying brain tumors from MRI scans using deep learning models. The application uses pre-trained models (Xception, Inception) and a custom CNN model for the classification task. It also generates saliency maps to highlight the regions of the MRI scan that the model focuses on during prediction.
+This project provides a web-based application for classifying brain tumors from MRI scans using deep learning models. The application uses pre-trained models - Xception and a custom CNN model for the classification task. It also generates saliency maps to highlight the regions of the MRI scan that the model focuses on during prediction.
 
 ## Features
 
